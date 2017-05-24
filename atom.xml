@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>张智亮的个人博客</title>
+  <subtitle>咸鱼翻身？不存在的~~~</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-24T08:21:36.175Z</updated>
+  <updated>2017-05-24T09:20:14.015Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>zhangzhiliang</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客搭建成功.md</title>
+    <link href="http://yoursite.com/2017/05/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F-md/"/>
+    <id>http://yoursite.com/2017/05/24/博客搭建成功-md/</id>
+    <published>2017-05-24T09:17:33.000Z</published>
+    <updated>2017-05-24T09:20:14.015Z</updated>
+    
+    <content type="html"><![CDATA[<p>折腾了这么久，所以这算是弄好了吗？之前因为想用自己的域名，折腾了很久也没有成功，不得不重新建立仓库从头做，现在好像一切都是正常的，此篇作为测试文章，看看能不能成功发布博客。无所谓啦，反正已经做好了从头再来的准备，因为这个分配的site又长又丑，不能忍受，用自己的域名是必须要做的事情！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;折腾了这么久，所以这算是弄好了吗？之前因为想用自己的域名，折腾了很久也没有成功，不得不重新建立仓库从头做，现在好像一切都是正常的，此篇作为测试文章，看看能不能成功发布博客。无所谓啦，反正已经做好了从头再来的准备，因为这个分配的site又长又丑，不能忍受，用自己的域名是必须要
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
